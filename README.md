@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi06&label=Profile%20views&color=0e75b6&style=flat" alt="pavi06" /> </p>
 
-- 🔭 I’m currently working on **Credit card anomalies detection**
+- 🔭 I’m currently working on **Tip off**
 
 - 🌱 I’m currently learning **Angular**
 
