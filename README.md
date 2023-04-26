@@ -4,13 +4,13 @@
 <h3 align="center">print("A passionate developer who enjoys working in the real world")</h3>
 <img align="right" alt="Coding" width="500" src="https://csspoint101.com/wp-content/uploads/2020/10/Developer-on-laptop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavi06&label=Profile%20views&color=0e75b6&style=flat" alt="pavi06" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pavi06&label=Profile%20views&color=0e75b6&style=flat](https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-6353864-5264781.png)" alt="pavi06" /> </p>
 
 - 🔭 I’m currently working on **Tip off**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **python,c**
+- 💬 Ask me about **python,c,java**
 
 - 📫 How to reach me **pavi06saishivu@gmail.com**
 
