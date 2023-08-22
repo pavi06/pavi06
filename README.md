@@ -1,7 +1,7 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif)](http://reshivchandra.io)
 
 <h1 align="center">Hi 👋, I'm Pavithra</h1>
-<h3 align="center">print(" A passionate developer who enjoys working in the real world ")</h3>
+<h3 align="center">print(" A passionate developer who enjoys working with the real world problems")</h3>
 <img align="right" alt="Coding" width="500" src="https://cdni.iconscout.com/illustration/premium/thumb/woman-programmer-working-on-a-new-project-6353864-5264781.png">
 
 <p align="left"> </p>
