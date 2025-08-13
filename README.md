@@ -6,9 +6,7 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on **Tip off**
-
-- 🌱 I’m currently learning **React**
+- 🔭 I’m currently working @ **Presidio Solutions Private Limited**
 
 - 💬 Ask me about **python,c,java**
 
